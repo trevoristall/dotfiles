@@ -22,33 +22,38 @@ casks=(
   a-better-finder-rename
   bettertouchtool
   charles
-  chromium
-  chronosync
+  #chromium
+  #chronosync
   dropbox
   fastscripts
   firefox
+  flycut
+  flux
   google-chrome
-  gyazo
+  #gyazo
   hex-fiend
-  istat-menus
+  #istat-menus
   iterm2
-  launchbar
-  macvim
-  moom
+  #launchbar
+  #macvim
+  #moom
+  spectacle
   omnidisksweeper
-  race-for-the-galaxy
-  reaper
+  #race-for-the-galaxy
+  #reaper
   remote-desktop-connection
-  sonos
+  #sonos
   spotify
   steam
-  synology-assistant
-  teamspeak-client
+  #synology-assistant
+  #teamspeak-client
   the-unarchiver
-  todoist
-  totalfinder
-  tower
-  transmission-remote-gui
+  #todoist
+  wunderlist
+  evernote
+  #totalfinder
+  #tower
+  #transmission-remote-gui
   vagrant
   virtualbox
   vlc

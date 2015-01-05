@@ -63,3 +63,7 @@ Desktop.ini
 .swo
 .*.swp
 .*.swo
+
+# .ssh keys
+link/.ssh/*
+!link/.ssh/config

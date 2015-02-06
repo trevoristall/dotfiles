@@ -23,3 +23,5 @@ function dotfiles() {
 }
 
 src
+
+export PATH="$PATH:/Applications/DevDesktop/drush"
